@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif?cid=ecf05e47n125zw1otritm2vv5l7p4bnvnlyxjvx1v9is9qa6&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <div id="badges"align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/joaquin-gabriel-2889702b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="">
     <img src="https://img.shields.io/badge/-google?style=for-the-badge&logo=Gmail&logoSize=blue&label=GMail&labelColor=green&color=green" alt="Gmail Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://gitlab.com/2235008">
+    <img src="https://img.shields.io/badge/-gitlab?style=for-the-badge&logo=gitlab&label=GitLab&labelColor=gray&color=gray" alt="Gitlab Badge"/>
   </a>
 </div>
 
