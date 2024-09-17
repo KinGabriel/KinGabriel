@@ -4,13 +4,13 @@
 </div>
 <div id="badges"align="center">
   <a href="https://www.linkedin.com/in/joaquin-gabriel-2889702b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Joaquin Gabriel-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/-google?style=for-the-badge&logo=Gmail&logoSize=blue&label=GMail&labelColor=green&color=green" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/-google?style=for-the-badge&logo=gmail&logoSize=blue&label=joaquingabriel803@gmail.com&labelColor=green&color=green" alt="Gmail Badge"/>
   </a>
   <a href="https://gitlab.com/2235008">
-    <img src="https://img.shields.io/badge/-gitlab?style=for-the-badge&logo=gitlab&label=GitLab&labelColor=gray&color=gray" alt="Gitlab Badge"/>
+    <img src="https://img.shields.io/badge/-gitlab?style=for-the-badge&logo=gitlab&label=@2235008&labelColor=gray&color=gray" alt="Gitlab Badge"/>
   </a>
 </div>
 
