@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 
-- 🎓 I’m a 3rd-year Information Technology student at Saint Louis University.
+- 🎓 I’m a 4th-year Information Technology student at Saint Louis University.
 - 🌱 I’m currently exploring a variety of programming languages and web development to expand my knowledge and skills.
 - 🎯 My goal is to create user-friendly applications that solve real-world problems.
 
@@ -26,7 +26,6 @@
 ### :hammer_and_wrench: Tech Stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
