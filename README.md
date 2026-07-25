@@ -1,63 +1,146 @@
- <h1 align="center"> Hello World!</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif?cid=ecf05e47n125zw1otritm2vv5l7p4bnvnlyxjvx1v9is9qa6&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="100"/>
-</div>
-<div id="badges"align="center">
-  <a href="https://www.linkedin.com/in/joaquin-gabriel-2889702b0/" target="_blank">
-    <img src="https://img.shields.io/badge/Joaquin Gabriel-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<h1 align="center">Hi 👋, I'm Joaquin Gabriel</h1>
+
+<h3 align="center">Software Engineer · Full-Stack Developer · BSIT Graduate</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hu9xj9UtxpoY3oytsh/giphy.gif?cid=ecf05e47n125zw1otritm2vv5l7p4bnvnlyxjvx1v9is9qa6&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="160" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KinGabriel&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KinGabriel" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-KinGabriel-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/-google?style=for-the-badge&logo=gmail&logoSize=blue&label=joaquingabriel803@gmail.com&labelColor=green&color=green" alt="Gmail Badge"/>
+  <a href="https://www.linkedin.com/in/joaquincaparas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Joaquin%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:joaquingabriel803@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-joaquingabriel803%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://gitlab.com/2235008">
-    <img src="https://img.shields.io/badge/-gitlab?style=for-the-badge&logo=gitlab&label=@2235008&labelColor=gray&color=gray" alt="Gitlab Badge"/>
+    <img src="https://img.shields.io/badge/GitLab-@2235008-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   </a>
-</div>
-
-
-### :man_technologist: About Me :
-
-- 🎓 I’m a 4th-year Information Technology student at Saint Louis University.
-- 🌱 I’m currently exploring a variety of programming languages and web development to expand my knowledge and skills.
-- 🎯 My goal is to create user-friendly applications that solve real-world problems.
+</p>
 
 ---
 
-### :hammer_and_wrench: Tech Stack :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="Node Js" alt="Node Js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+## 👨‍💻 About Me
+
+🎓 BS in Information Technology graduate from **Saint Louis University**
+
+💻 Software Engineer focused on building scalable, maintainable, and user-focused applications.
+
+🔭 Primarily working on backend systems, with experience across frontend and full-stack development.
+
+💡 I enjoy building REST APIs, dashboard applications, AI-powered software, developer productivity tools, and designing user interfaces.
+
+🌱 Currently deepening my knowledge of AI APIs, MCP (Model Context Protocol), and n8n automation.
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KinGabriel&theme=tokyonight)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinGabriel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠 Technical Skills
+ 
+**Programming Languages**
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42"/>
+</p>
 
-<!--
-**KinGabriel/KinGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Technologies**
+ 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42"/>
+</p>
 
-Here are some ideas to get you started:
+**Backend Technologies**
+ 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="42"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cloud & DevOps**
+ 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="42"/>
+</p>
+
+**Tools & Platforms**
+ 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="42"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/>
+</p>
+
+**Databases**
+ 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42"/>
+</p>
+
+**Operating Systems**
+ 
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="42"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42"/>
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="42"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KinGabriel&show_icons=true&theme=tokyonight"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KinGabriel&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KinGabriel&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KinGabriel&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+Open to discussing full-stack development, system architecture, AI-powered tooling, and opportunities to collaborate.
+
+<p align="center">
+<em>Code with purpose. Learn continuously. Build solutions that make a difference.</em>
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" width="100%"/>
